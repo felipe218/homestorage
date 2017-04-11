@@ -1,0 +1,2 @@
+# homestorage
+O projeto envolve o desenvolvimento de uma ferramenta web, com a finalidade de armazenar dados, afim de obter um controle total das vendas, obtendo dados historicos e análise de dados. Todo o desenvolvimento está programado para ter duas etapas, sendo cada uma com mais inovação do uso de ferramentas. O Home Storage foi idealizado por necessidade de se substituir o uso de planilhas, sendo elas físicas ou digitais, sendo também uma forma de estudo e deenvolvimento pessoal do desenvolvedor.
