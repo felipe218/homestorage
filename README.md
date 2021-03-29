@@ -1,2 +1,3 @@
 # homestorage
-O projeto envolve o desenvolvimento de uma ferramenta web, com a finalidade de armazenar dados, afim de obter um controle total das vendas, obtendo dados historicos e análise de dados. Todo o desenvolvimento está programado para ter duas etapas, sendo cada uma com mais inovação do uso de ferramentas. O Home Storage foi idealizado por necessidade de se substituir o uso de planilhas, sendo elas físicas ou digitais, sendo também uma forma de estudo e deenvolvimento pessoal do desenvolvedor.
+O projeto envolve o desenvolvimento de uma ferramenta baseada em React Native, com a finalidade final de armazenar senhas e dados de acessos, mas também, executar a função de estudo pessoal.
+29/03/2021: O projeto em seu primeiro momento possui as seguintes definições: React Native, noSQL, next js. Ainda não existe escolha para servidor de aplicação.
